@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Md. Mashrur Sadat
 - 👀 I’m interested in web development, software engineering
 - 🌱 I’m currently learning full stack web development
-- 📫 How to reach me mashrursadat16@gmail.com
+- 📫 How to contact me:
+      Email: mashrursadat16@gmail.com
+      LinkedIn: linkedin.com/in/md-mashrur-sadat-966996157 
+      
 
 <!---
 Md-Mashrur-Sadat/Md-Mashrur-Sadat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
