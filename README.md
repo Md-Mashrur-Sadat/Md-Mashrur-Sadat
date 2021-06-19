@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Mashrur Sadat
 - 👀 I’m interested in web development, software engineering
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently learning full stack web development, computer networking
 - 📫 How to contact me:
       Email: mashrursadat16@gmail.com, 
       LinkedIn: https://www.linkedin.com/in/md-mashrur-sadat-966996157/
