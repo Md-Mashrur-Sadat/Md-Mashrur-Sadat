@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Md. Mashrur Sadat
-- 👀 I’m interested in web development, software engineering, software quality assurance, computer networks, SEO
-- 🌱 I’m currently learning software quality assurance, SEO
+- 👀 I’m interested in Software Engineering, Software Quality Assurance, Automation
+- 🌱 I’m currently learning Automation of web and mobile applications
 - 📫 How to contact me:  
       Email: mashrursadat16@gmail.com   
-      LinkedIn: https://www.linkedin.com/in/md-mashrur-sadat-966996157/
+      
       
       
 
